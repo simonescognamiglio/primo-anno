@@ -1,2 +1,2 @@
 Ciao, mi chiamo Simone Scognamiglio, ho 21 anni e vivo a Napoli. Per adesso sono iscritto al corso di NTA dell'Accademia di Belle Arti di Napoli, ma nel tempo libero "fingo" di saper suonare la chitarra.
-<img scr=Screenshot2024-11-08121224.png>
+<img scr=Screenshot2024-11-08121224.jpg>
